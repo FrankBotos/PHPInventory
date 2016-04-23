@@ -7,11 +7,11 @@ Because of the nature of Web Servers and remote databases, and the fact that hos
 # Running on Windows with the Included Portable Server
 Simply download the repository, and run UniController.exe. Allow firewall access if asked. Once the program is open, click Start Apache and wait for the green light. Then click Start MySQL and wait for the green light. 
 
-Then go to your web browser of choice, and go to this link: localhost/PHPInventory/login.php
+Then go to your web browser of choice, and go to this link: **localhost/PHPInventory/login.php**
 
-username: user@user.com
+**username:** user@user.com
 
-password: user
+**password:** user
 
 From there on out you can experiment with the software without the need for a remote server. If you wish to use this software in a more practical way, it is also possible to configure Uniform Server to be a real web server, allowing for connections from the Internet (there are tutorials for doing this throughout the Internet).
 
