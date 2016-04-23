@@ -1,0 +1,103 @@
+
+
+		body {
+			font-family: helvetica, serif;
+
+			/*ensuring that linear gradient background does not repeat*/
+			height: 100%;
+			margin: 0;
+			background-repeat: no-repeat
+			background-attachment: fixed;
+			background: linear-gradient(#8cb9d4, #141427);
+			/**********************************************************/
+
+		}
+
+		h1 {
+			font-family: impact, serif;
+			text-align: center;
+			padding-top: 12px;
+		}
+
+		h3 {
+			font-family: impact, serif;
+			text-align: center;
+		}
+
+		table {
+			margin: auto;
+		}
+		td.foot{
+			width: 125px;
+		}
+   		th {
+   			background-color: #141427;
+   			color: #ffffff;
+   		}
+   		table tr:nth-child(odd) td.menu{
+   			background-color: #7DB4B5;
+   			width: 102px;
+   		}
+		table tr:nth-child(even) td.menu{
+			background-color: #E0EFF1;
+			width: 102px;
+		}
+
+		a.sort:visited{
+			color: #ffffff;
+			text-decoration: none;
+		}
+		a.sort:link{
+			color: #ffffff;
+			text-decoration: none;
+		}
+		a.sort:hover{
+			color: #ffcc66;
+		}
+
+		.mainTitle{
+			text-shadow: 2px 2px #000;
+			color: #ffcc66;
+		}
+
+		.role {
+			color: #ffcc66;
+			text-shadow: 2px 2px #000;
+		}
+
+		.userInfo{
+			font-family: helvetica, serif;
+			font-size: 12px;
+		}
+
+		a.menu{ /*set up so link colors "fade"*/
+			-o-transition: .5s;
+  			-ms-transition: .5s;
+  			-moz-transition: .5s;
+  			-webkit-transition: .5s;
+			transition: .5s;
+			color: #000;
+			padding: 2px 12px;
+			text-decoration: none;
+		}
+		a.menu:visited{
+			color: #000;
+			padding: 2px 12px;
+		}
+		a.menu:hover{
+			background-color: #000;
+			color: #fff;
+			padding: 2px 12px;
+			font-size: 24px;
+		}
+		.footerWrapper {
+			border: 1px;
+			margin: auto;
+		}
+		textarea {
+			resize: none;
+		}
+		footer {
+			font-family: impact, serif;
+			font-size: 10px;
+		}

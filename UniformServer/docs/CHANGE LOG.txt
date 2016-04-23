@@ -1,0 +1,67 @@
+﻿ ################################################################################
+# File name: CHANGE LOG.txt
+# Created By: The Uniform Server Development Team
+################################################################################
+
+ Uniform Server ZeroXII releases are versions with pre-installed ZeroXImodules
+ producing a standard WAMP (Windows, Apache, MySQL and PHP) server
+ package. After extracting, servers are ready to run either from a
+ USB memory stick or PC. Apart from changing the MySQL password
+ (optional) there is no configuration required.
+
+ The pre-configured versions of Uniform Server ZeroXII should suite most
+ users! An alternative is to assemble a bespoke server from the available
+ modules provided on the following page:  
+
+ ZeroXIImodules  (Plugins):
+ http://sourceforge.net/projects/miniserver/files/Uniform%20Server%20ZeroXII/ZeroXIImodules/
+
+ --------------------------------
+ Uniform Server ZeroXI Change Log
+ --------------------------------
+
+ 12.3.0   - Updated ZeroXII_apache_2_4_18_g.exe to ZeroXII_apache_2_4_20_g.exe
+
+ 12.2.1   - ZeroXII_phpmyadmin_4_5_5_1.exe to ZeroXII_phpmyadmin_4_6_0.exe
+          - Updated ZeroXII_php_7_0_4_g.exe to ZeroXII_php_7_0_5_g.exe
+
+ 12.2.0   - Updated ZeroXII_apache_2_4_18_af.exe to ZeroXII_apache_2_4_18_g.exe
+          - Updated ZeroXII_phpmyadmin_4_5_5.exe to ZeroXII_phpmyadmin_4_5_5_1.exe
+          - Updated ZeroXII_php_7_0_3.exe to ZeroXII_php_7_0_4_g.exe
+
+ 12.1.1   - Updated ZeroXII_apache_2_4_18_a.exe to ZeroXII_apache_2_4_18_af.exe
+          - Updated ZeroXII_mysql_5_6_28.exe to ZeroXII_mysql_5_6_29.exe
+          - Updated ZeroXII_php_7_0_2.exe to ZeroXII_php_7_0_3.exe
+          - Removed duplicated htpasswd folder in core folder
+          - Updated php7 configuration files.
+          - Updated ZeroXII_phpmyadmin_4_5_4_1.exe to ZeroXII_phpmyadmin_4_5_5.exe
+
+ 12.1.0   - Updated ZeroXII_apache_2_4_18.exe to ZeroXII_apache_2_4_18_a.exe
+          - Updated ZeroXII_phpmyadmin_4_5_3_1.exe to ZeroXII_phpmyadmin_4_5_4_1.exe
+          - Updated ZeroXII_controller_2_1_0.exe to ZeroXII_controller_2_1_1.exe
+          - Updated ZeroXII_php_7_0_2.exe to ZeroXII_php_7_0_2_a.exe
+          - Updated ZeroXII_documentation_1_0_0.exe to - ZeroXII_documentation_1_0_1.exe
+
+ 12.0.1   - Updated ZeroXII_phpmyadmin_4_5_2.exe to ZeroXII_phpmyadmin_4_5_3_1.exe
+          - Updated ZeroXII_php_7_0_0.exe to ZeroXII_php_7_0_2.exe
+          - Updated ZeroXII_controller_2_0_0.exe to ZeroXII_controller_2_1_0.exe
+
+ 12.0.0   - First Release. ZeroXImodules modules inclued:
+          - ZeroXII_controller_2_0_0.exe
+          - ZeroXII_documentation_1_0_0.exe
+          - ZeroXII_apache_2_4_18.exe
+          - ZeroXII_mysql_5_6_28.exe
+          - ZeroXII_php_7_0_0.exe
+          - ZeroXII_phpmyadmin_4_5_2.exe
+
+
+ -----------------------------------------------------------------------------
+
+  The authors were trying to make the best product so they cannot be held
+  responsible for any type of damage or problems caused by using this or
+  another software.
+
+ --------------------------------------o0o------------------------------------
+            Copyright 2002-2016 The Uniform Server Development Team
+                            All rights reserved.
+
